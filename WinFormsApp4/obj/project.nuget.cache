@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQ/9JqTqIaF/tZ0EHravmrRdRH15ORAD7EB5aybXPFTKNp68jeGUJzRkeR+uWNTO56Sjan/w9vND6+55uwPbZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.118\\stub.system.data.sqlite.core.netframework.1.0.118.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Stub.System.Data.SQLite.Core.NetFramework 1.0.118\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Stub.System.Data.SQLite.Core.NetFramework",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
